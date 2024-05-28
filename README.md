@@ -1,2 +1,6 @@
-Notion 자료 </p>
-https://www.notion.so/CRUD-e6e74d31814e4d92ab6f5ad09d3b3b18?pvs=4
+- gradle 7.6.4
+- Spring boot : 3.1.0
+- Java : 17
+- JPA : 3.1.0
+- DB : Mysql
+- JWT : 0.11.2
